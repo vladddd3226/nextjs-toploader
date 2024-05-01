@@ -64,3 +64,4 @@ sketch
 
 # Output of 'npm pack'
 *.tgz
+config.bat
